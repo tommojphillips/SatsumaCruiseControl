@@ -15,8 +15,8 @@ namespace CruiseControlMod
     {
         public override string ID { get { return "CruiseControl"; } }
         public override string Name { get { return "Satsuma Cruise Control"; } }
-        public override string Author { get { return "Nitro Pascal"; } }
-        public override string Version { get { return "0.11"; } }
+        public override string Author { get { return "Nitro Pascal, tommojphillips"; } }
+        public override string Version { get { return "0.14"; } }
         public override bool UseAssetsFolder => true;
 
         /// <summary>
