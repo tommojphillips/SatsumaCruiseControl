@@ -17,8 +17,8 @@ The Cruise Control Panel can be found near the phone on the right side.
 ![ccPanel location-far](https://i.imgur.com/cN80yj0.png)
 
 <b>How to install mod</b> 
-1.) Download and Build code
-2.) Copy "CruiseControlMod.dll" to your mods folder <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods)</i>.
-3.) Download v0.1.1.4 [Mod API v0.1.1.4](https://github.com/tommojphillips/ModAPI/releases/tag/0.1.1.4-alpha).
-4.) Copy "modapi_vxxx-alpha.dll" to your References folder <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods\References)</i>.
-5.) copy assets to your Assets folder, <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods\Assets)</i>.
+1.) Download and Build code  
+2.) Copy "CruiseControlMod.dll" to your mods folder <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods)</i>.  
+3.) Download v0.1.1.4 [Mod API v0.1.1.4](https://github.com/tommojphillips/ModAPI/releases/tag/0.1.1.4-alpha).  
+4.) Copy "modapi_vxxx-alpha.dll" to your References folder <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods\References)</i>.  
+5.) copy assets to your Assets folder, <i>default location, (C:\Program Files (x86)\Steam\steamapps\common\My Summer Car\Mods\Assets)</i>.  
